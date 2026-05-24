@@ -14,8 +14,6 @@ class LoginPage(BasePage):
 
   def click_developer_login_button(self):
     self.click_webelement(LoginPageLocators.DEVELOPER_LOGIN_BTN)
-    self.wait_until_element_should_be_visible(LoginPageLocators.LOGIN_TAB, 10)
-    self.wait_until_element_should_be_visible(LoginPageLocators.LOGIN_BTN, 10)
 
   def click_login_tab(self):
     self.click_webelement(LoginPageLocators.LOGIN_TAB)
