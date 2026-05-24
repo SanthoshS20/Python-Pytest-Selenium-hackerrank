@@ -12,5 +12,5 @@ DASHBOARD_URL = 'https://www.hackerrank.com/dashboard'
 EMAIL_ADDRESS = "praveenkumar1290@mail.com"
 PASSWORD = "Password@123"
 INCORRECT_PASSWORD = "PASSWORD@123"
-FIRST_NAME = "Ram"
+FIRST_NAME = "Ramfghfgh"
 LAST_NAME = "Kufdgfhghmar"
